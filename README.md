@@ -17,8 +17,35 @@ Feature 3 – Having the developers add new ideas to the app every so often
 Live Demo:
 (https://www.figma.com/make/BuwSIaEXKuEYvszIGTPLd5/Gohappy-Website?p=f&t=LpwbdKfWPN1mDLyS-0&fullscreen=1)
 
-Contributions are welcome!
-Contributing
+Installation
+
+Clone the repository:
+
+git clone https://github.com/davidolivo5999/Gohappy.git
+
+Navigate into the project folder:
+
+cd GoHappy
+
+Install dependencies:
+
+npm install
+
+Start the development server:
+
+npm run dev
+
+Roadmap
+
+Future improvements:
+
+Add authentication
+
+Improve UI/UX
+
+Add analytics dashboard
+
+Mobile responsiveness
 
 Contributions are welcome!
 
