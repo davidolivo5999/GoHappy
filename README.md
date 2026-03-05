@@ -7,5 +7,5 @@ Retention improves only if issues are resolved.
 As a result of corrections made through Go Happy
 Faster routing
 Escalation workflows
-Standardized case handling
+Standardized case handling and
 Automation
