@@ -18,10 +18,28 @@ Live Demo:
 (https://www.figma.com/make/BuwSIaEXKuEYvszIGTPLd5/Gohappy-Website?p=f&t=LpwbdKfWPN1mDLyS-0&fullscreen=1)
 
 Contributions are welcome!
+Contributing
+
+Contributions are welcome!
+
+Fork the repository
+
+Create a new branch
+
+git checkout -b feature-name
+
+Commit your changes
+
+Push to your branch
+
+Open a Pull Request
 
 Author
 
 David Olivo
+
+
+
 
 GitHub:
 (https://github.com/davidolivo5999)
